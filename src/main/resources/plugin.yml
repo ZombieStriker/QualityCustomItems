@@ -1,6 +1,6 @@
 name: QualityCustomItems
 version: '${project.version}'
-main: me.zombie_striker.qualitycustomitems.QualityCustomItems
+main: me.zombie_striker.qualitycustomitems.QualityCustomItemsPlugin
 api-version: 1.19
 authors: [ Zombie_Striker ]
 description: A framework for adding custom items.
